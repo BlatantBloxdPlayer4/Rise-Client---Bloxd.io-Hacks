@@ -4,8 +4,7 @@ Bloxd Client
 
 Fixed:
 
-Scaffold Extend,
-Camera thing's
+Arraylist and Camera modules
 
 Added:
-Hope option to Killaura )supposed to be really powerful)
+Glider Boost
