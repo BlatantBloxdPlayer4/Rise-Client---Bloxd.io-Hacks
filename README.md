@@ -4,7 +4,4 @@ Bloxd Client
 
 Fixed:
 
-Arraylist and Camera modules
-
-Added:
-Glider Boost
+Broken mods, but I don't care about the camera ones
